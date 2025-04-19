@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix-Ethiopia/static/css/main.898a1dd5.css",
+    "main.js": "/Netflix-Ethiopia/static/js/main.7ecf59db.js",
+    "index.html": "/Netflix-Ethiopia/index.html",
+    "main.898a1dd5.css.map": "/Netflix-Ethiopia/static/css/main.898a1dd5.css.map",
+    "main.7ecf59db.js.map": "/Netflix-Ethiopia/static/js/main.7ecf59db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898a1dd5.css",
+    "static/js/main.7ecf59db.js"
+  ]
+}
